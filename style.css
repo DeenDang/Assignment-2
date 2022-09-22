@@ -238,6 +238,28 @@ p{
     transition: 0.5s;
 }
 
+.col3{
+    flex-basis: 80%;
+    background: #fff3f3;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+table{
+    width: 100%;
+    border: 1px solid #4F7849;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+table td, th{
+    border: 1px solid #4F7849;
+    padding: 3px 2px;
+}
+
 h3{
     text-align: center;
     font-weight: 600;
@@ -249,6 +271,14 @@ h3{
 }
 
 .col1:hover {
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.col2:hover {
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.col3:hover {
     box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
 }
 

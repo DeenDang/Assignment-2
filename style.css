@@ -58,7 +58,7 @@
     min-height: 50vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), 
-    url(images/PI.webp);
+    url(images/pi.png);
     background-position: center;
     background-size: cover;
     position: relative;
